@@ -1,7 +1,5 @@
 # WeekDay App using Date Picker Fragment (with basic Text Fade IN/OUT Animation)
 
-weekdayimproved-melvincabatuan created by Classroom for GitHub
-
 This assignment illustrates the basic application of Date Picker Fragment. It also introduces simple animation in Android.
 
 ## Problem:
@@ -26,15 +24,6 @@ year    - is the last two digits of the adjusted year (January and February are 
 
 century - is the century of the adjusted year (January and February are in the previous year). For example, if year is 2003, then century is 20
 
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/402224e6245bbc7726d3a5431a12247c
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-melvincabatuan
 
 ## Keypoints:
 
@@ -207,33 +196,3 @@ public void fadeAnimation(TextView tv){
         });
     }
 ```
-
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-Sample:
-
-https://gist.github.com/melvincabatuan/defd8992ecdce9c73d7e
-
-## Screenshots:
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-melvincabatuan/blob/master/device-2015-10-04-082749.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-melvincabatuan/blob/master/device-2015-10-04-082812.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-melvincabatuan/blob/master/device-2015-10-04-082834.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-melvincabatuan/blob/master/device-2015-10-04-082918.png)
-
-
-"*Example teaches better than precept. It is the best modeler of the character of men and women. To set a lofty example is the richest bequest a man can leave behind him.*" - Samuel Smiles
